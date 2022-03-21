@@ -2,7 +2,7 @@
 
 🦊✨ Automated Pokemon-encounter counter & screenshot tool written in Rust.
 
-![ss](https://github.com/holodata/shinyfox/blob/master/.github/ss.jpg?raw=true)
+![ss](https://github.com/holodata/shinyfox/blob/main/.github/ss.jpg?raw=true)
 
 ## Install
 
