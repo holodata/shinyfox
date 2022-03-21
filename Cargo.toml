@@ -1,0 +1,10 @@
+[package]
+name = "shinyfox"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.52"
+clap = { version = "3.0.13", features = ["derive"] }
+ffmpeg-next = "4.4.0"
+image = "0.23.14"
